@@ -1,0 +1,22 @@
+.primary_button,.secondary_button{
+    color: white;
+    font-family: RobotoMedium , sans-serif;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.primary_button{
+    padding:20px 40px;
+    background-color:#4452FE;
+    border:none;
+}
+.primary_button:hover{background-color: #2834bb;}
+
+.secondary_button{
+    padding: 19px 40px;
+    background: transparent;
+    border-radius: 1px;
+    border: solid white;
+}
+.secondary_button:hover{border-color: rgba(255, 255, 255, 0.315);
+color: rgba(255, 255, 255, 0.315);}
